@@ -1,6 +1,6 @@
 - # Hi, I'm Adell 🚴🏾👩‍💻 👋
 
-<img src="user-images.githubusercontent.com/81112689/167600604-fa7add9d-b49b-46da-9cb4-baff7a17a021.png" alt="banner Adell">
+<img src="https://user-images.githubusercontent.com/81112689/167600604-fa7add9d-b49b-46da-9cb4-baff7a17a021.png" alt="banner Adell">
 
 Full Stack Web Developer.
 
