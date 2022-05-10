@@ -4,8 +4,6 @@
 
 Full Stack Web Developer.
 
-https://github.com/JuanMartinezAdell/images-in-readme/issues/1#issue-1230899374
-
 ##Puedes encontrame 🌎: <a href="https://github.com/JuanMartinezAdell"></a>
 - Redes Sociales <a href="https://www.facebook.com/juancostadsol">Facebook</a> , <a href="https://www.instagram.com/juanmadell/">Instagram</a> ✈ 🚲
 - Aficiones <a href="https://bikeblog.juanmartinezadell.es/">Blog</a>
