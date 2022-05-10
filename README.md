@@ -1,0 +1,13 @@
+- 👋 Hi, I’m @JuanMartinezAdell
+
+![técnico](https://user-images.githubusercontent.com/81112689/167590822-b2169e40-ba0f-4933-8cb3-7e0e64bda473.pn
+
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+
+<!---
+JuanMartinezAdell/JuanMartinezAdell is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
