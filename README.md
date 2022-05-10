@@ -1,12 +1,8 @@
-- 👋 Hi, I’m @JuanMartinezAdell
+- # Hi, I'm Adell 🚴🏾👩‍💻 
 
+Full Stack Web Developer
 
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-JuanMartinezAdell/JuanMartinezAdell is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+##Puedes encontrame 🌎: <a href="https://github.com/JuanMartinezAdell"></a>
+- Redes Sociales <a href="https://www.facebook.com/juancostadsol">Faceebook</a> o <a https://bikeblog.juanmartinezadell.es/">Aficiones</a> ✈ 🚲
+- Curriculum <a href="https:https://juanmartinezadell.es"> Portfolio</a> 👩‍💻
+- Perfil <a href=https://www.linkedin.com/in/juan-martinez-adell-085670121/">LinkedIn</a> 💼
