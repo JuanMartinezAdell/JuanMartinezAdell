@@ -1,4 +1,4 @@
-- # Hi, I'm Adell 🚴🏾👩‍💻 
+- # Hi, I'm Adell 🚴🏾👩‍💻 👋
 
 Full Stack Web Developer.
 
